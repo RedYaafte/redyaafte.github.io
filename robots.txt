@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redyaafte.github.io/sitemap.xml
