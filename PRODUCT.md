@@ -26,7 +26,7 @@ Visitors browse a single static page on desktop or mobile, switch between Spanis
 
 - Static HTML, CSS, and JavaScript site hosted at `redyaafte.github.io`.
 - Spanish and English are first-class interface languages, with the selected language persisted locally.
-- Existing public links: GitHub (`RedYaafte`), LinkedIn, CV PDF, TakoLab, and Órbita Matemática.
+- Existing public links: GitHub (`RedYaafte`), LinkedIn, CV PDF, Reliability Insights Lab, TakoLab, and Órbita Matemática.
 - Content claims are limited to repository evidence and the supplied public demos. The email shown in the existing site is a placeholder and must not be represented as verified.
 
 ## Brand Commitments
@@ -38,6 +38,7 @@ Visitors browse a single static page on desktop or mobile, switch between Spanis
 ## Evidence on Hand
 
 - Existing portfolio copy and CV at `assets/cv/Yafte-CV.pdf`.
+- Reliability Insights Lab README and source at `/home/yafte/dev/improve-portfolio`, linked to its public GitHub repository.
 - Black Ember palette at `/home/yafte/dev/black-ember/palette/black-ember.toml`.
 - Public demos: TakoLab describes itself as software that adapts to a business; Órbita Matemática offers visual lessons, practice, and progress tracking for secondary-school mathematics.
 - Existing professional history and technologies in `index.html`.

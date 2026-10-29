@@ -30,7 +30,7 @@ assets/cv/             currículum descargable
 
 ## Contenido
 
-Incluye enlaces a los proyectos públicos [TakoLab](https://takolab.vercel.app/) y [Órbita Matemática](https://orbita-matematica-seven.vercel.app/), además de GitHub y LinkedIn. Actualiza los textos en `index.html` y sus equivalentes en `assets/js/i18n.js` al cambiar contenido.
+Incluye enlaces a los proyectos públicos [Reliability Insights Lab](https://github.com/RedYaafte/reliability-insights-lab), [TakoLab](https://takolab.vercel.app/) y [Órbita Matemática](https://orbita-matematica-seven.vercel.app/), además de GitHub y LinkedIn. Actualiza los textos en `index.html` y sus equivalentes en `assets/js/i18n.js` al cambiar contenido.
 
 ## Paleta
 
