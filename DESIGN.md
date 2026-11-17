@@ -10,4 +10,4 @@ Una sesión de Neovim como objeto de presentación: una única ventana cálida y
 - Texto cálido `#e8dfd0`; foco ámbar `#e2a35f`; sintaxis bronce, salvia, oro y cian.
 - DM Mono es para datos, comandos y código; Manrope para lectura y jerarquía editorial.
 - Las pestañas y el prompt son navegación funcional, nunca decoración.
-- En móvil la ventana se convierte en el viewport sin perder la barra de estado ni el prompt.
+- En móvil la ventana se convierte en el viewport; la navegación inferior usa los mismos nombres de archivo que las pestañas de escritorio y conserva la barra de estado y el prompt.
